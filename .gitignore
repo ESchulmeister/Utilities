@@ -1,0 +1,7 @@
+/.vs/ClassLibrary1/FileContentIndex/*.vsidx
+*.vsidx
+*.props
+*.targets
+net6.0
+obj
+/.vs/Utilities/v17/*.suo
